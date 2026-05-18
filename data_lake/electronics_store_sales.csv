@@ -1,0 +1,201 @@
+Transaction_ID,Store,City,Product,Category,Quarter,Quantity,Price
+1,Store_A,New York,Smartphone,Electronics,Q1,4,2542
+2,Store_B,New York,Smartphone,Electronics,Q1,1,2368
+3,Store_C,Paris,Laptop,Electronics,Q1,2,4743
+4,Store_C,Tokyo,Laptop,Electronics,Q4,4,4529
+5,Store_C,Paris,TV,Electronics,Q4,3,4615
+6,Store_A,Tokyo,TV,Electronics,Q1,4,505
+7,Store_C,Tokyo,TV,Electronics,Q1,4,2397
+8,Store_A,London,TV,Electronics,Q1,1,721
+9,Store_B,Paris,Smartphone,Electronics,Q3,1,4642
+10,Store_C,New York,Laptop,Electronics,Q2,4,4283
+11,Store_B,Paris,Laptop,Electronics,Q2,4,3867
+12,Store_A,New York,Tablet,Electronics,Q1,5,2037
+13,Store_A,Tokyo,Tablet,Electronics,Q4,5,4140
+14,Store_B,Tokyo,Tablet,Electronics,Q4,1,2083
+15,Store_B,Tokyo,Smartphone,Electronics,Q1,5,567
+16,Store_A,Tokyo,Smartphone,Electronics,Q1,4,2207
+17,Store_A,New York,Camera,Electronics,Q3,1,1934
+18,Store_A,London,Tablet,Electronics,Q4,2,2122
+19,Store_C,London,Smartphone,Electronics,Q2,5,2201
+20,Store_B,Paris,Smartphone,Electronics,Q2,2,2639
+21,Store_C,London,Tablet,Electronics,Q3,5,2720
+22,Store_B,Tokyo,Camera,Electronics,Q2,4,2076
+23,Store_A,London,Smartphone,Electronics,Q2,5,1117
+24,Store_A,New York,TV,Electronics,Q3,2,639
+25,Store_C,New York,Camera,Electronics,Q2,5,3999
+26,Store_B,New York,Smartphone,Electronics,Q3,5,665
+27,Store_C,London,TV,Electronics,Q1,4,1156
+28,Store_C,Tokyo,Laptop,Electronics,Q4,3,1920
+29,Store_C,Paris,TV,Electronics,Q2,2,3908
+30,Store_A,New York,TV,Electronics,Q2,1,2138
+31,Store_A,New York,Smartphone,Electronics,Q2,4,1917
+32,Store_B,London,Tablet,Electronics,Q3,4,3137
+33,Store_B,Paris,Tablet,Electronics,Q3,3,4917
+34,Store_B,Tokyo,Laptop,Electronics,Q4,2,3901
+35,Store_C,Tokyo,TV,Electronics,Q1,5,1009
+36,Store_C,Paris,TV,Electronics,Q3,4,4279
+37,Store_A,Tokyo,Tablet,Electronics,Q1,4,4403
+38,Store_A,New York,Smartphone,Electronics,Q3,4,2906
+39,Store_C,Paris,Smartphone,Electronics,Q1,4,3010
+40,Store_B,Paris,TV,Electronics,Q3,1,1440
+41,Store_A,Paris,Tablet,Electronics,Q2,4,3818
+42,Store_A,Paris,Tablet,Electronics,Q4,5,2663
+43,Store_C,Tokyo,TV,Electronics,Q1,1,2969
+44,Store_B,New York,TV,Electronics,Q2,5,1393
+45,Store_B,London,Camera,Electronics,Q1,5,1007
+46,Store_C,London,Tablet,Electronics,Q2,4,3458
+47,Store_C,Paris,TV,Electronics,Q2,3,4015
+48,Store_A,London,TV,Electronics,Q1,4,3402
+49,Store_C,London,Laptop,Electronics,Q3,5,1090
+50,Store_A,New York,Laptop,Electronics,Q2,3,1837
+51,Store_A,New York,TV,Electronics,Q2,1,2541
+52,Store_C,Tokyo,Camera,Electronics,Q3,2,1783
+53,Store_B,New York,Tablet,Electronics,Q1,5,1116
+54,Store_B,London,TV,Electronics,Q1,4,1605
+55,Store_B,New York,Camera,Electronics,Q4,2,3463
+56,Store_B,New York,Laptop,Electronics,Q3,4,3346
+57,Store_C,London,Smartphone,Electronics,Q3,5,3111
+58,Store_A,New York,Laptop,Electronics,Q4,4,1260
+59,Store_B,London,Tablet,Electronics,Q4,3,4196
+60,Store_A,Tokyo,Camera,Electronics,Q3,1,3688
+61,Store_B,London,Camera,Electronics,Q3,5,2520
+62,Store_C,Paris,Tablet,Electronics,Q1,4,4536
+63,Store_C,London,Smartphone,Electronics,Q2,2,3520
+64,Store_B,Paris,Laptop,Electronics,Q2,3,1245
+65,Store_A,London,Smartphone,Electronics,Q3,5,1456
+66,Store_B,Tokyo,Smartphone,Electronics,Q4,2,613
+67,Store_B,Paris,Tablet,Electronics,Q2,4,4280
+68,Store_C,Tokyo,Tablet,Electronics,Q3,3,2625
+69,Store_A,Tokyo,Laptop,Electronics,Q2,1,3198
+70,Store_C,Tokyo,Laptop,Electronics,Q4,3,1150
+71,Store_A,Paris,Laptop,Electronics,Q4,2,2910
+72,Store_B,Paris,Laptop,Electronics,Q2,4,4567
+73,Store_A,Tokyo,Smartphone,Electronics,Q3,4,3390
+74,Store_C,New York,Camera,Electronics,Q3,4,2730
+75,Store_C,New York,Tablet,Electronics,Q1,1,2991
+76,Store_C,Tokyo,Camera,Electronics,Q4,5,597
+77,Store_A,New York,Tablet,Electronics,Q4,2,1533
+78,Store_B,Paris,Smartphone,Electronics,Q4,3,524
+79,Store_A,Paris,Laptop,Electronics,Q2,1,1108
+80,Store_A,Tokyo,Smartphone,Electronics,Q4,4,2535
+81,Store_A,Tokyo,TV,Electronics,Q1,5,1471
+82,Store_A,Paris,Camera,Electronics,Q2,1,649
+83,Store_C,Paris,TV,Electronics,Q2,3,1256
+84,Store_A,Tokyo,Camera,Electronics,Q1,4,3447
+85,Store_A,Paris,TV,Electronics,Q2,4,2399
+86,Store_A,London,Laptop,Electronics,Q3,4,1322
+87,Store_B,London,Tablet,Electronics,Q4,2,4506
+88,Store_B,London,Camera,Electronics,Q4,1,4215
+89,Store_C,Tokyo,Tablet,Electronics,Q3,3,2801
+90,Store_A,New York,TV,Electronics,Q2,4,3939
+91,Store_A,Paris,Laptop,Electronics,Q2,5,4372
+92,Store_C,New York,Tablet,Electronics,Q3,1,3002
+93,Store_C,Paris,Smartphone,Electronics,Q1,4,3771
+94,Store_A,New York,Camera,Electronics,Q4,3,3364
+95,Store_B,Tokyo,Laptop,Electronics,Q4,4,4120
+96,Store_C,London,Camera,Electronics,Q1,3,1049
+97,Store_A,Tokyo,TV,Electronics,Q1,4,4352
+98,Store_C,London,TV,Electronics,Q4,5,3492
+99,Store_C,London,Camera,Electronics,Q3,1,4451
+100,Store_B,London,Camera,Electronics,Q4,3,1118
+101,Store_A,London,Tablet,Electronics,Q4,3,4734
+102,Store_A,Tokyo,Smartphone,Electronics,Q1,2,4608
+103,Store_C,Paris,Smartphone,Electronics,Q2,5,3522
+104,Store_B,London,Tablet,Electronics,Q4,1,3879
+105,Store_A,Tokyo,Camera,Electronics,Q4,4,3141
+106,Store_A,London,Camera,Electronics,Q1,4,1535
+107,Store_B,Paris,Laptop,Electronics,Q4,4,2501
+108,Store_C,New York,TV,Electronics,Q2,3,4671
+109,Store_C,London,TV,Electronics,Q1,4,2756
+110,Store_C,Paris,Laptop,Electronics,Q4,1,1566
+111,Store_C,Tokyo,Smartphone,Electronics,Q2,5,2849
+112,Store_A,London,TV,Electronics,Q4,4,2969
+113,Store_A,London,Laptop,Electronics,Q4,4,3332
+114,Store_C,Tokyo,TV,Electronics,Q3,4,3491
+115,Store_B,New York,Tablet,Electronics,Q4,1,4525
+116,Store_C,Tokyo,Camera,Electronics,Q1,4,2267
+117,Store_B,New York,Smartphone,Electronics,Q3,1,1754
+118,Store_A,London,Laptop,Electronics,Q2,1,1112
+119,Store_B,London,Tablet,Electronics,Q2,1,2775
+120,Store_C,Tokyo,Tablet,Electronics,Q3,2,2138
+121,Store_B,New York,Laptop,Electronics,Q1,4,4367
+122,Store_B,Paris,Camera,Electronics,Q4,5,2773
+123,Store_C,Paris,Camera,Electronics,Q2,2,669
+124,Store_A,Paris,Laptop,Electronics,Q1,1,2823
+125,Store_C,New York,Smartphone,Electronics,Q4,1,4748
+126,Store_A,London,Camera,Electronics,Q4,4,2846
+127,Store_B,Paris,Laptop,Electronics,Q1,2,827
+128,Store_C,Paris,Smartphone,Electronics,Q4,4,2351
+129,Store_A,Tokyo,Camera,Electronics,Q1,1,2567
+130,Store_B,London,Laptop,Electronics,Q3,1,4054
+131,Store_A,Paris,TV,Electronics,Q1,5,1796
+132,Store_A,Paris,Laptop,Electronics,Q4,2,2671
+133,Store_A,Tokyo,TV,Electronics,Q2,3,1001
+134,Store_C,London,Laptop,Electronics,Q2,4,4934
+135,Store_B,London,Laptop,Electronics,Q3,2,1428
+136,Store_A,New York,Laptop,Electronics,Q3,1,2507
+137,Store_B,Tokyo,Laptop,Electronics,Q1,2,3830
+138,Store_C,London,Tablet,Electronics,Q2,4,513
+139,Store_A,New York,Camera,Electronics,Q1,4,2097
+140,Store_C,Tokyo,Tablet,Electronics,Q4,4,2504
+141,Store_B,Tokyo,Camera,Electronics,Q3,5,2620
+142,Store_A,Tokyo,Camera,Electronics,Q4,5,4383
+143,Store_C,London,Camera,Electronics,Q4,1,1870
+144,Store_C,Paris,Laptop,Electronics,Q2,5,4650
+145,Store_C,Paris,Tablet,Electronics,Q1,4,3727
+146,Store_B,Tokyo,Tablet,Electronics,Q3,3,4636
+147,Store_A,New York,Camera,Electronics,Q1,2,2625
+148,Store_C,Paris,Camera,Electronics,Q4,1,1187
+149,Store_A,London,Tablet,Electronics,Q4,3,1298
+150,Store_C,London,Smartphone,Electronics,Q3,4,3015
+151,Store_C,New York,Camera,Electronics,Q2,1,4970
+152,Store_C,New York,Smartphone,Electronics,Q3,2,4917
+153,Store_A,New York,Smartphone,Electronics,Q1,5,2218
+154,Store_A,New York,Tablet,Electronics,Q1,4,3088
+155,Store_C,Tokyo,Laptop,Electronics,Q4,1,3049
+156,Store_B,New York,Smartphone,Electronics,Q4,5,3817
+157,Store_A,Tokyo,Camera,Electronics,Q1,5,4743
+158,Store_A,London,Laptop,Electronics,Q4,4,4599
+159,Store_C,Paris,Smartphone,Electronics,Q4,1,3539
+160,Store_B,New York,TV,Electronics,Q4,5,4606
+161,Store_B,London,TV,Electronics,Q3,1,2752
+162,Store_C,London,Laptop,Electronics,Q1,3,4357
+163,Store_A,Paris,TV,Electronics,Q3,5,1692
+164,Store_C,New York,Camera,Electronics,Q4,1,1873
+165,Store_A,London,Camera,Electronics,Q1,5,3424
+166,Store_A,London,Laptop,Electronics,Q3,1,562
+167,Store_C,Paris,TV,Electronics,Q2,3,2827
+168,Store_B,Tokyo,Camera,Electronics,Q1,4,2945
+169,Store_C,London,Laptop,Electronics,Q3,2,4982
+170,Store_B,London,Laptop,Electronics,Q2,5,3027
+171,Store_A,New York,TV,Electronics,Q1,5,1982
+172,Store_C,Paris,Tablet,Electronics,Q2,3,2965
+173,Store_B,London,Smartphone,Electronics,Q4,1,4640
+174,Store_B,New York,Laptop,Electronics,Q3,3,4884
+175,Store_B,Tokyo,TV,Electronics,Q1,1,3556
+176,Store_A,London,Smartphone,Electronics,Q4,5,4501
+177,Store_A,Paris,Camera,Electronics,Q1,4,4364
+178,Store_A,New York,Laptop,Electronics,Q2,3,4417
+179,Store_A,London,Tablet,Electronics,Q2,2,2911
+180,Store_C,Paris,Laptop,Electronics,Q1,1,3393
+181,Store_C,Tokyo,Camera,Electronics,Q4,4,3448
+182,Store_B,Tokyo,Smartphone,Electronics,Q2,2,2683
+183,Store_A,New York,Camera,Electronics,Q3,4,2604
+184,Store_C,New York,Camera,Electronics,Q1,1,1047
+185,Store_A,Paris,Smartphone,Electronics,Q4,1,3148
+186,Store_C,London,TV,Electronics,Q3,1,744
+187,Store_A,Tokyo,TV,Electronics,Q4,3,2422
+188,Store_B,London,TV,Electronics,Q1,3,1178
+189,Store_C,Tokyo,Camera,Electronics,Q1,3,3698
+190,Store_A,Tokyo,TV,Electronics,Q2,3,2780
+191,Store_B,New York,Camera,Electronics,Q1,1,1656
+192,Store_C,Tokyo,TV,Electronics,Q4,1,1879
+193,Store_C,Paris,Tablet,Electronics,Q4,1,3179
+194,Store_B,London,TV,Electronics,Q4,2,4044
+195,Store_B,Paris,Laptop,Electronics,Q2,5,3877
+196,Store_B,New York,Smartphone,Electronics,Q4,2,1560
+197,Store_B,Paris,Camera,Electronics,Q3,1,3883
+198,Store_B,Paris,TV,Electronics,Q1,5,1608
+199,Store_B,London,Tablet,Electronics,Q3,3,3230
+200,Store_A,Tokyo,Tablet,Electronics,Q1,3,655
